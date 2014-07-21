@@ -1,0 +1,23 @@
+# Brews
+install coreutils --default-names
+install autoconf
+install boost
+install libtool
+install ossp-uuid
+install readline
+install automake
+install openssl
+# Casks
+tap caskroom/cask
+install brew-cask
+cask install caffeine
+cask install font-inconsolata
+cask install font-anonymous-pro
+cask install flux
+cask install google-chrome
+cask install iterm2
+cask install slack
+cask install sonos
+cask install spotify
+cask install flux
+

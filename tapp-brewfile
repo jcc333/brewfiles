@@ -1,0 +1,8 @@
+# Brews
+install maven
+install thrift
+install scala29
+# Casks
+cask install java7
+cask install intellij-idea-ce
+
